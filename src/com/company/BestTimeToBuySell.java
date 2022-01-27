@@ -9,7 +9,7 @@ public class BestTimeToBuySell {
         System.out.println(profit);
     }
 
-
+    //my solution
     private static int calculate(int[] num, int profit) {
         if (num.length == 0) return profit;
 
